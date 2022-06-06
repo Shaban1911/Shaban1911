@@ -4,6 +4,16 @@
 ## Hello, I'm [Shahaban Mallick](https://shahban.me)👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
+**TECHNOLOGIES I WORK WITH**
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![c/c++](https://img.shields.io/badge/C/C++-blue?style=for-the-badge&logo=C/C++&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
+
 
 ### Personal Goals:
 
