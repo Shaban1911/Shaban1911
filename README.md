@@ -1,9 +1,16 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> Hi, I'm Shahaban Mallick.
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# I'm a Developer and Student <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50">
 
-- 👀 I’m interested in Full Stack Web Development, Data Science and Android Development
-- 🌱 I’m currently learning everything 😂
+## Hello, I'm [Shahaban Mallick](https://shahban.me)👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+
+
+### Personal Goals:
+
+- 👀 I’m interested in Web Development, Data Science and Android Development
+- 🌱 I’m exploring the vast field of Computer Science, participating Hackhathons and having fun.
+- 🌱 I’m currently learning Mern 🤟 ...
+- 💬 Ask me about anything, I am happy to help
 - 💞️ I’m looking to collaborate with other amazing developers
 - 🥅 2022 Goal: To create some amazing project
 
