@@ -17,12 +17,12 @@
 ---
 
 ### 🧾 Recent Contributions:
-[![Shahaban's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shaban1911&theme=react-dark)](https://github.com/ShishirShekhar/)
+[![Shahaban's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shaban1911&theme=react-dark)](https://github.com/Shaban1911/)
 
 ### 📊 Some Fun Stats:
 | ![My Stats](https://github-readme-stats.vercel.app/api?username=Shaban1911&theme=midnight-purple) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaban1911&theme=midnight-purple) |
 | --- | --- |
-| ![Shishir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaban1911&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/Shaban1911/count.svg) |
+| ![Shahaban's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaban1911&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/Shaban1911/count.svg) |
 
 
 ### 🏆 My trophies
